@@ -1,0 +1,10 @@
+i = 1
+constant = 273.2
+print("Kelvin converter")
+while i == 1:
+    celcius = int(input("Enter a temperatue in celcius: "))
+    kelvin = celcius + constant
+    print(kelvin)
+    end = input("Do ypu want end(y/n): ")
+    if (end == "y" ):
+        i = 0
