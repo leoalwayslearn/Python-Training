@@ -3,7 +3,7 @@
 #Improvements:Simple the code structure, add a exit optionafter calculation
 i = 1
 operation = ["1.Add","2.Minus","3.Multiple","4.Devision"]
-print("Welcome to simple calculator V1.3")
+print("Welcome to simple calculator V1.2.1")
 #Run the loop
 while i == 1:
     try:
@@ -41,3 +41,4 @@ while i == 1:
         continue
 #End of the programm
     
+
