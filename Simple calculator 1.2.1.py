@@ -1,6 +1,6 @@
 #Generating a simple calculator
 #Version 1.2.1
-#Improvements:Simple the code structure, add a exit optionafter calculation
+#Improvements:Simple the code structure, add a exit option after calculation
 i = 1
 operation = ["1.Add","2.Minus","3.Multiple","4.Devision"]
 print("Welcome to simple calculator V1.2.1")
@@ -41,4 +41,5 @@ while i == 1:
         continue
 #End of the programm
     
+
 
